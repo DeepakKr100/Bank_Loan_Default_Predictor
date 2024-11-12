@@ -73,7 +73,7 @@ Idea is to implement the end to end machine learning project while using free de
 
 
 ### Demo
-[Visit this link for Web application](https://loanwebapp7.herokuapp.com/)
+[Visit this link for Web application](https://bankloandefaultpredictor.streamlit.app/)
 
 Web application Snapshot:
 
